@@ -1,8 +1,2 @@
-Output
-// [
-//     'This', 'string',
-//     'will', 'be',
-//     'split', 'into',
-//     'an', 'array',
-//     'of', 'strings'
-// ]
+
+    // let arr1 = country.split(' ');

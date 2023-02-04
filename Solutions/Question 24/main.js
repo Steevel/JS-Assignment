@@ -1,6 +1,5 @@
-// const countryModule = require("./countries");
-// const webTech = require("./web_techs");
+const countries = require("./countries");
+const webTech = require("./web_techs");
 
-// const countriesArr = countryModule.;
-// console.log(countriesArr);
-// countriesArr.map((country) => console.log(country));
+countries.map((country) => console.log(country));
+webTech.map((tech) => console.log(tech));
